@@ -1,10 +1,11 @@
 import React from "react";
 import Header from "./Header/Header";
+import Home from "./Home";
 
 const App = () => (
   <div>
     <Header />
-    Start Here!
+    <Home />
   </div>
 );
 
